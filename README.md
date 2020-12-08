@@ -18,5 +18,8 @@ using sample page
 * Gitlab
 
 # URL
+Github - https://github.com/yaraneu/yaraneu.github.io
+Web page - http://127.0.0.1:5500/yaraneu.github.io/index.html
+
 
 
